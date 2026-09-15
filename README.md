@@ -1,6 +1,6 @@
 # Bible-niv
 
-- This repository contains the NIV version of the Bible in JSON format.
+- This repository contains the    the Bible in JSON format.
 - There are 66 books. Each book is a separate JSON file.
 - Included is a JSON array of all 66 book names.
 
